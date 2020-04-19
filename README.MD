@@ -13,4 +13,6 @@
 
 # https://github.com/Sewer56
 # https://github.com/Shadowth117
-# https://github.com/LimblessVector @LimblessVector
+# https://github.com/LimblessVector 
+# https://github.com/dreamsyntax
+# https://github.com/TGEnigma
